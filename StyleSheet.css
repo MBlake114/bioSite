@@ -1,0 +1,33 @@
+/*
+Blake, Milo
+Module 7.3
+09/18/2021
+bioSite
+*/
+
+* {
+    font-family: Lora, Times, "Times New Roman", serif;
+}
+/* Header Styles*/
+ header img {
+     width:100px;
+     height: 100px;
+     float: left;
+ }
+ header {
+     border-bottom: 5px solid black;
+     height:110px;
+ }
+ header h1 {
+     text-align:center;
+ 
+ }
+
+ header #navbar {
+     text-align: center;
+
+ }
+
+ /* Images Styles*/
+
+ /*Footer Styles*/
